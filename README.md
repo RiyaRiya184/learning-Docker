@@ -66,7 +66,7 @@ Solutions with Docker:
 
 # Docker Architecture
 
-![Docker-Architecture](/dockervsvm.png)
+![Docker-Architecture](https://github.com/gaoharimran29-glitch/learning-docker/blob/c54fb11a0d05282a631c7b8eb308d8c5647648a8/dockervsvm.png)
 
 Docker uses a **client-server model**:
 
